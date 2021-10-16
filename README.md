@@ -8,19 +8,19 @@ Several analyses took place in order to assist HR team determining the number of
 Mentorship program is a proposal for experienced and successful retirees. Instead of retiring completely, eligible folks can become part-time mentor for newly hired employees.
 
 ## Results: ## 
-* All of the people who are eligible for retirement:
+### * All of the people who are eligible for retirement: ###
 
 ![plot](./resources/retirement.png) 
  
-*	A tally of all the titles for those eligible for retirement:
+### *	A tally of all the titles for those eligible for retirement: ###
 
 ![plot](./resources/retiring.png) 
 
-*	A list used to narrow the results down to the most recent title for each retiree:
+### *	A list used to narrow the results down to the most recent title for each retiree: ###
 
 ![plot](./resources/unique.png) 
 
-*	And finally, the list of current employees eligible for the mentorship program: 
+### *	And finally, the list of current employees eligible for the mentorship program: ### 
 
 ![plot](./resources/mentor.png) 
 
