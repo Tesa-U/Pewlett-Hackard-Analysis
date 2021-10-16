@@ -10,19 +10,19 @@ Mentorship program is a proposal for experienced and successful retirees. Instea
 ## Results: ## 
 * All of the people who are eligible for retirement:
 
-![plot](./Resources/retirement.png) 
+![plot](./resources/retirement.png) 
  
 *	A tally of all the titles for those eligible for retirement:
 
-![plot](./Resources/retiring.png) 
+![plot](./resources/retiring.png) 
 
 *	A list used to narrow the results down to the most recent title for each retiree:
 
-![plot](./Resources/unique.png) 
+![plot](./resources/unique.png) 
 
 *	And finally, the list of current employees eligible for the mentorship program: 
 
-![plot](./Resources/mentor.png) 
+![plot](./resources/mentor.png) 
 
 ## Summary: ## 
 Company management and HR team may consider looking into manager to employee number of each department to make sure all departments have balanced ratio to increase productions.
